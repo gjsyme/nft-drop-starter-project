@@ -1,0 +1,19 @@
+{
+  "name": "Firework_Red",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "EwWj1N2UEF98wtRqT7FujuDNWhUhm6B8KffHYNeLELTs",
+        "share": 100
+      }
+    ]
+  }
+}

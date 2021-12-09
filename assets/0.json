@@ -1,0 +1,19 @@
+{
+  "name": "Firework_White",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "EwWj1N2UEF98wtRqT7FujuDNWhUhm6B8KffHYNeLELTs",
+        "share": 100
+      }
+    ]
+  }
+}

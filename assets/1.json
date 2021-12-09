@@ -1,0 +1,19 @@
+{
+  "name": "Firework_Blue",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "EwWj1N2UEF98wtRqT7FujuDNWhUhm6B8KffHYNeLELTs",
+        "share": 100
+      }
+    ]
+  }
+}
